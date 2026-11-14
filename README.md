@@ -1,18 +1,16 @@
 # Hi, I'm Joshua
 
-I'm a computer engineering undergrad. I like low-level code, data structures, and building apps I'd actually use.
+I'm a computer science undergrad at Georgia Institute of Technology and am studying systems architecture and artificial intelligence.
 
 ## What I work with
 
 - C, C++, Java
 - Swift and SwiftUI (iOS)
-- Git and GitHub
 
 ## What I'm working on
 
-- Data structures in C++ (CIS 17C)
-- Java (CIS 18A)
-- Practicing algorithms for ICPC
+- Data structures in C++ 
+- Java 
 - FitMonkey, a habit-tracking iOS app with a pet monkey, built with a teammate
 
 ## Projects
